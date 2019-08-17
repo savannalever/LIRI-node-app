@@ -33,4 +33,7 @@ Output: The terminal will display a list of information about the movie. Similar
 
 Output: The terminal will display all the locations and events where the artist/band is playing. There will most likely be multiple outputs associated.
 ### Video Guide: https://drive.google.com/file/d/11qqZFY9PKbSTzyMo6pL51EQ3-lQn1LL2/view
+<<<<<<< HEAD
 ### Screenshots: 
+=======
+
